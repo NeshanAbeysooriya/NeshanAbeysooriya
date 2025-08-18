@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neshan Abeysooriya</h1>
 <h3 align="center">🧑‍🎓 I’m an Undergraduate at SLIIT|Aspiring Software Engineer</h3>
-
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neshanabeysooriya&label=Profile%20views&color=0e75b6&style=flat" alt="neshanabeysooriya" /> </p>
 
 - 🌱 I’m currently learning **MERN,Android studio**
