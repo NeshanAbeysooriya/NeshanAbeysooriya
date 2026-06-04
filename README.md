@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neshan Abeysooriya</h1>
-<h3 align="center">🧑‍🎓 I’m an Undergraduate at SLIIT|Aspiring Software Engineer</h3>
+<h3 align="center">🧑‍🎓 I’m an Undergraduate at SLIIT|Aspiring Software Engineer|Aspiring Quality Assurance Engineer</h3>
 
 ---
 
